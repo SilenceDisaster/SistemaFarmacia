@@ -554,12 +554,12 @@ def login():
         col1, col2, col3 = st.columns([1, 2, 1]) # Adjust ratios as needed
 
         with col2: # This column will contain the login form, effectively centering it
-            st.markdown("<div class='login-card'>", unsafe_allow_html=True)
+            #st.markdown("<div class='login-card'>", unsafe_allow_html=True)
             st.title("Sistema de Farmacia")
             st.subheader("Iniciar Sesión")
 
             # Image for the login page
-            st.image("https://placehold.co/600x200/2c3e50/ecf0f1?text=Bienvenido+a+Farmacia+Digital", caption="Bienvenido a su Sistema de Farmacia", use_column_width=True)
+            #futura imagen
 
             with st.form("login_form"):
                 username = st.text_input("Usuario")
