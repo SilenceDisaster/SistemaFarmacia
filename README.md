@@ -2,6 +2,9 @@
 <h1>Sistema de Gestión de Farmacia</h1>
 <p>Este proyecto es una aplicación web desarrollada con <strong>Streamlit</strong>, diseñada para la gestión integral de una farmacia. Permite a diferentes roles de usuario administrar medicamentos, pacientes, citas y dispensaciones, optimizando los flujos de trabajo y el control de inventario.</p>
 <p>Las funcionalidades clave incluyen:</p>
+
+<img width="1599" height="750" alt="1" src="https://github.com/user-attachments/assets/58f916fc-926c-4df0-8a43-4bc2cb97d2dc" />
+
 <ul>
     <li><strong>Gestión de Inventario:</strong> Control detallado de medicamentos, incluyendo stock, fechas de vencimiento y ubicación.</li>
     <li><strong>Gestión de Pacientes:</strong> Registro y administración de información de pacientes, incluyendo historial de dispensaciones y citas.</li>
@@ -9,7 +12,17 @@
     <li><strong>Gestión de Citas:</strong> Programación y seguimiento de citas médicas.</li>
     <li><strong>Registro de Dispensaciones:</strong> Trazabilidad de la entrega de medicamentos y su impacto en el inventario.</li>
 </ul>
-<p>El sistema busca mejorar la eficiencia operativa y la seguridad en la gestión de recursos farmacéuticos y la atención al paciente.</p>
+
+<p>El sistema busca mejorar la eficiencia operativa y la seguridad en la gestión de recursos farmacéutico
+s y la atención al paciente.</p>
+
+<img width="1599" height="753" alt="4" src="https://github.com/user-attachments/assets/edcb68b0-1fc0-4351-8d2f-d256d1b54f2b" />
+
+<h2>Este es el link para ver el programaen funcionamiento abajo se ecuntran las credenciales</h2>
+
+https://sistemafarmacia.streamlit.app/
+
+<img width="1599" height="752" alt="2" src="https://github.com/user-attachments/assets/a5f603f5-dc14-41f9-beb8-d7467fa13088" />
 
 <h2>Características Principales</h2>
 <ul>
@@ -58,6 +71,8 @@
         </ul>
     </li>
 </ul>
+<img width="1599" height="753" alt="3" src="https://github.com/user-attachments/assets/646733cb-da45-40e1-b63c-7e5b2bd541db" />
+
 
 <h2>Instalación</h2>
 <p>Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:</p>
@@ -113,6 +128,20 @@ plotly</code></pre>
     <li>Sube tus cambios a tu fork (<code>git push origin feature/nueva-funcionalidad</code>).</li>
     <li>Abre un Pull Request.</li>
 </ol>
+<h2>Usuarios Utilisados</h2>
+
+<li><a>  "Dr. Juan Pérez", "jperez",password("docpass123"), "doctor"),  </a></li>
+<li><a>  ("Lic. Ana Gómez", "agomez", password("farmapass123"), "farmacia"),  </a></li>
+<li><a>  ("Admin Principal", "admin",password("adminpass"), "admin"),  </a></li>
+<li><a>  ("Archivero Sofia", "sofia",password("arcpass123"), "archivo")  </a></li>
+
 
 <h2>Licencia</h2>
 <p>Este proyecto está bajo la licencia MIT. Consulta el archivo <code>LICENSE</code> para más detalles.</p>
+
+
+
+
+
+
+
